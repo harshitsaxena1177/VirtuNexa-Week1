@@ -20,7 +20,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="Expense Book"
-            android:textColor="@color/green"
+            android:textColor="#090909"
             android:textSize="18sp"
             android:textStyle="normal" />
 
@@ -52,7 +52,7 @@
                 android:layout_width="wrap_content"
                 android:text="Total Balance"
                 android:textSize="16sp"
-                android:textColor="#DDFFFFFF"
+                android:textColor="#DD0B0B0B"
                 android:layout_height="wrap_content"/>
 
 
@@ -62,7 +62,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="2dp"
                 android:text="INR: 00.0"
-                android:textColor="@color/green"
+                android:textColor="#0E0F0E"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -109,7 +109,7 @@
                 android:layout_width="wrap_content"
                 android:text="Total Expense"
                 android:textSize="16sp"
-                android:textColor="#DDFFFFFF"
+                android:textColor="#DD101010"
                 android:layout_height="wrap_content"/>
 
 
@@ -119,7 +119,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="2dp"
                 android:text="INR: 00.0"
-                android:textColor="@color/green"
+                android:textColor="#0D0D0C"
                 android:textSize="16sp"
                 android:textStyle="bold" />
 
@@ -151,7 +151,7 @@
                     android:clickable="true"
                     android:foreground="?attr/selectableItemBackground"
                     android:background="@drawable/card_shape"
-                    android:textColor="@color/black"
+                    android:textColor="#101010"
                     android:layout_height="37dp"/>
 
 
@@ -168,7 +168,7 @@
                     android:clickable="true"
                     android:foreground="?attr/selectableItemBackground"
                     android:background="@drawable/card_shape"
-                    android:textColor="@color/black"
+                    android:textColor="#0D0D0D"
                     android:layout_height="37dp"/>
 
 
@@ -220,7 +220,7 @@
                 android:layout_width="wrap_content"
                 android:text="Total Income"
                 android:textSize="16sp"
-                android:textColor="#DDFFFFFF"
+                android:textColor="#DD0B0B0B"
                 android:layout_height="wrap_content"/>
 
 
@@ -230,7 +230,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="2dp"
                 android:text="INR: 00.0"
-                android:textColor="@color/green"
+                android:textColor="#0E0F0E"
                 android:textSize="16sp"
                 android:textStyle="bold" />
 
@@ -262,7 +262,7 @@
                     android:clickable="true"
                     android:foreground="?attr/selectableItemBackground"
                     android:background="@drawable/card_shape"
-                    android:textColor="@color/black"
+                    android:textColor="#070707"
                     android:layout_height="37dp"/>
 
 
@@ -279,7 +279,7 @@
                     android:clickable="true"
                     android:foreground="?attr/selectableItemBackground"
                     android:background="@drawable/card_shape"
-                    android:textColor="@color/black"
+                    android:textColor="#090909"
                     android:layout_height="37dp"/>
 
 

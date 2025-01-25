@@ -70,7 +70,7 @@
         <EditText
             android:id="@+id/edBuy"
             android:inputType="numberDecimal"
-            android:hint="5000"
+            android:hint=""
             android:padding="10dp"
             android:textColor="@color/black"
             android:textColorHint="#CB000000"
@@ -105,7 +105,7 @@
             android:id="@+id/reasonDisplay"
             android:textStyle="bold"
             android:layout_width="wrap_content"
-            android:text="How much money do you want to spend to Buy?"
+            android:text="Where do you want to spend?"
             android:textSize="14sp"
             android:textColor="@color/black"
             android:layout_height="wrap_content"/>
@@ -115,7 +115,7 @@
         <EditText
             android:id="@+id/edReason"
             android:inputType="textPersonName"
-            android:hint="Reason"
+            android:hint=""
             android:padding="10dp"
             android:textColor="@color/black"
             android:textColorHint="#CB000000"
@@ -149,7 +149,7 @@
         android:layout_marginRight="16dp"
         android:layout_marginLeft="16dp"
         android:background="@drawable/round"
-        android:text="Add Expense to SQlite"
+        android:text="Add Expense"
         android:layout_width="match_parent"
         android:layout_height="50dp"/>
 

@@ -4,11 +4,11 @@
 
 
     <solid
-        android:color="@color/green"/>
+        android:color="#F44334"/>
 
     <stroke
         android:width="2dp"
-        android:color="#A60900"/>
+        android:color="#A60D03"/>
 
     <corners
         android:radius="16dp"/>
